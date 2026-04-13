@@ -56,11 +56,20 @@ Me especializo en llevar ideas a la web utilizando plataformas como **Render**, 
 </p>
 
 ---
-
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bady470&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bady470&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+  <!-- Estadísticas Generales (Servidor Estable) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Bady470&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+    
+  
+
+  <!-- Lenguajes más usados (Servidor Estable ) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Bady470&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" alt="Top Langs" />
+</p>
+
+<!-- Racha de contribuciones (Opcional, se ve muy pro ) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bady470&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
