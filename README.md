@@ -92,14 +92,12 @@ Me especializo en llevar ideas a la web utilizando plataformas como **Render**, 
 
 ---
 
-### 🐍 Mi Contribución Snake Game
+🐍 Mi Contribución Snake Game
 
-¡Mira cómo mi serpiente se come mis contribuciones de GitHub! Este divertido juego se genera automáticamente a partir de mi historial de commits.
+<p align="center">
+<img src="https://raw.githubusercontent.com/Bady470/Bady470/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</p>
 
-<!--START_SECTION:gitsnake-->
-<!--END_SECTION:gitsnake-->
-
-**Para que el Snake Game funcione, necesitarás configurar una GitHub Action en tu repositorio de perfil.** Puedes encontrar las instrucciones en el repositorio de [platane/snk](https://github.com/platane/snk).
 
 ---
 
