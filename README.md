@@ -78,7 +78,7 @@ Además de mis habilidades técnicas, valoro y desarrollo las siguientes soft sk
 Me especializo en llevar ideas a la web utilizando plataformas como **Render**, configurando flujos de CI/CD para que mis proyectos estén siempre actualizados y disponibles. Aquí algunos de mis proyectos más relevantes:
 
 - **Aerozone**: Página web de aerolínea (CSS)
-- **gestion-epp**: Gestión de EPP (PHP)
+- **Gestion-Epp-1**: Gestión de EPP (PHP)
 - **delivery-api**: API para sistema de delivery (PHP)
 - **delivery-frontend**: Frontend para sistema de delivery (JavaScript)
 
