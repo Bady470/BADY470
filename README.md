@@ -8,8 +8,12 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
-¡Hola! Soy Neider, un desarrollador Junior apasionado por la tecnología y la innovación. Me enfoco en crear soluciones digitales eficientes, escalables y centradas en el usuario. Mi objetivo es aprender constantemente y aplicar las mejores prácticas en cada línea de código que escribo.
+### 👨‍💻 Perfil Profesional
+Desarrollador backend junior y técnico en sistemas con enfoque principal en programación web utilizando Laravel y PHP. Tengo experiencia creando APIs, sistemas administrativos y proyectos web completos utilizando tecnologías como Laravel, MySQL, JavaScript, HTML, CSS y plantillas Blade.
+He trabajado en proyectos personales enfocados en gestión empresarial, asistencia, perfiles de usuario, sistemas administrativos y aplicaciones web personalizadas. También tengo experiencia configurando entornos de desarrollo con Laragon, uso de Git y despliegue de proyectos en plataformas como Render.
+Además, cuento con conocimientos en soporte técnico, mantenimiento de computadores y optimización de sistemas, lo que me permite tener una visión más completa tanto del software como del hardware.
+Me caracterizo por aprender rápido, resolver problemas técnicos de manera práctica y adaptarme fácilmente a nuevas tecnologías.
+
 
 ---
 
