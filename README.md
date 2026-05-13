@@ -13,15 +13,6 @@
 
 ---
 
-### 💡 Aprendiendo Actualmente
-Siempre estoy en la búsqueda de nuevos conocimientos y mejorando mis habilidades. Actualmente, estoy profundizando en:
-
-- **[Tecnología/Concepto 1]**: Breve descripción de lo que estás aprendiendo.
-- **[Tecnología/Concepto 2]**: Breve descripción de lo que estás aprendiendo.
-- **[Tecnología/Concepto 3]**: Breve descripción de lo que estás aprendiendo.
-
----
-
 ### 🛠️ Mi Stack Tecnológico
 
 Aquí te presento las tecnologías y herramientas con las que trabajo y me mantengo en constante aprendizaje:
