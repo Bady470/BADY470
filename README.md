@@ -13,6 +13,15 @@
 
 ---
 
+### 💡 Aprendiendo Actualmente
+Siempre estoy en la búsqueda de nuevos conocimientos y mejorando mis habilidades. Actualmente, estoy profundizando en:
+
+- **[Tecnología/Concepto 1]**: Breve descripción de lo que estás aprendiendo.
+- **[Tecnología/Concepto 2]**: Breve descripción de lo que estás aprendiendo.
+- **[Tecnología/Concepto 3]**: Breve descripción de lo que estás aprendiendo.
+
+---
+
 ### 🛠️ Mi Stack Tecnológico
 
 Aquí te presento las tecnologías y herramientas con las que trabajo y me mantengo en constante aprendizaje:
@@ -48,6 +57,17 @@ Aquí te presento las tecnologías y herramientas con las que trabajo y me mante
 
 ---
 
+### 🤝 Soft Skills
+Además de mis habilidades técnicas, valoro y desarrollo las siguientes soft skills, esenciales para el trabajo en equipo y el éxito en cualquier proyecto:
+
+- **Comunicación Efectiva**: Capacidad para expresar ideas de forma clara y concisa, tanto oralmente como por escrito.
+- **Trabajo en Equipo**: Colaboración activa y constructiva con otros desarrolladores y stakeholders.
+- **Resolución de Problemas**: Enfoque analítico para identificar, analizar y solucionar desafíos técnicos.
+- **Adaptabilidad**: Flexibilidad para aprender nuevas tecnologías y ajustarse a los cambios en los proyectos.
+- **Proactividad**: Iniciativa para buscar soluciones, mejorar procesos y anticipar posibles problemas.
+
+---
+
 ### 🚀 Proyectos Destacados
 Me especializo en llevar ideas a la web utilizando plataformas como **Render**, configurando flujos de CI/CD para que mis proyectos estén siempre actualizados y disponibles. Aquí algunos de mis proyectos más relevantes:
 
@@ -63,6 +83,17 @@ Me especializo en llevar ideas a la web utilizando plataformas como **Render**, 
 ¡Mantente al tanto de mis últimas contribuciones y actividad en GitHub!
 
 [![Neider's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bady470&theme=tokyonight&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Mi Contribución Snake Game
+
+¡Mira cómo mi serpiente se come mis contribuciones de GitHub! Este divertido juego se genera automáticamente a partir de mi historial de commits.
+
+<!--START_SECTION:gitsnake-->
+<!--END_SECTION:gitsnake-->
+
+**Para que el Snake Game funcione, necesitarás configurar una GitHub Action en tu repositorio de perfil.** Puedes encontrar las instrucciones en el repositorio de [platane/snk](https://github.com/platane/snk).
 
 ---
 
