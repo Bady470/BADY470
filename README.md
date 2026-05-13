@@ -10,10 +10,22 @@
 
 ### 👨‍💻 Perfil Profesional
 Desarrollador backend junior y técnico en sistemas con enfoque principal en programación web utilizando Laravel y PHP. Tengo experiencia creando APIs, sistemas administrativos y proyectos web completos utilizando tecnologías como Laravel, MySQL, JavaScript, HTML, CSS y plantillas Blade.
+
 He trabajado en proyectos personales enfocados en gestión empresarial, asistencia, perfiles de usuario, sistemas administrativos y aplicaciones web personalizadas. También tengo experiencia configurando entornos de desarrollo con Laragon, uso de Git y despliegue de proyectos en plataformas como Render.
+
 Además, cuento con conocimientos en soporte técnico, mantenimiento de computadores y optimización de sistemas, lo que me permite tener una visión más completa tanto del software como del hardware.
+
 Me caracterizo por aprender rápido, resolver problemas técnicos de manera práctica y adaptarme fácilmente a nuevas tecnologías.
 
+
+---
+
+### 💡 Aprendiendo Actualmente
+Siempre estoy en la búsqueda de nuevos conocimientos y mejorando mis habilidades. Actualmente, estoy profundizando en:
+
+- **Arquitectura de Microservicios**: Explorando cómo diseñar sistemas escalables y desacoplados.
+- **Patrones de Diseño**: Aplicando mejores prácticas para escribir código más limpio y mantenible.
+- **Cloud Computing**: Ampliando mis conocimientos en despliegue y gestión de infraestructura en la nube.
 
 ---
 
@@ -22,10 +34,11 @@ Me caracterizo por aprender rápido, resolver problemas técnicos de manera prá
 Aquí te presento las tecnologías y herramientas con las que trabajo y me mantengo en constante aprendizaje:
 
 #### 🌐 Web & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Backend & Sistemas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,8 +51,6 @@ Aquí te presento las tecnologías y herramientas con las que trabajo y me mante
 
 #### 📱 Desarrollo Móvil
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### 🧪 Herramientas de Testing & API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -92,7 +103,7 @@ Me especializo en llevar ideas a la web utilizando plataformas como **Render**, 
 
 ---
 
-### 📫 Conéctate Conmigo
+### 📫 Contactate Conmigo
 <p align="left">
   <a href="https://github.com/Bady470" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
